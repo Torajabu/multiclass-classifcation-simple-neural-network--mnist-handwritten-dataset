@@ -29,9 +29,10 @@ This project implements a simple neural network for classifying handwritten digi
    ```bash
    git clone https://github.com/Torajabu/multiclass-classifcation-simple-neural-network--mnist-handwritten-dataset.git
 
-    Navigate to the project directory:
-
+"""
+Navigate to the project directory:
 cd multiclass-classifcation-simple-neural-network--mnist-handwritten-dataset
+
 
 Install dependencies:
 
