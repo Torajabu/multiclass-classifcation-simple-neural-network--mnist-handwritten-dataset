@@ -1,8 +1,19 @@
 # MNIST Handwritten Digits Classification
 
-This project implements a simple neural network for classifying handwritten digits from the **MNIST dataset**. The dataset contains grayscale images of digits (0-9), and the model predicts the correct digit.
+This project implements a simple neural network for classifying handwritten digits from the **MNIST dataset**. The dataset contains grayscale images of digits (0-9), and the model predicts the correct digit. 
 
 ---
+## Docker Implementation with Prometheus and Grafana
+
+I have also made a Docker implementation of the same, along with Prometheus and Grafana for monitoring and visualization. You can view those results here - https://github.com/Torajabu/multiclass-classifcation-simple-neural-network--mnist-handwritten-dataset/tree/main/docker%2C%20Prometheus%2C%20Grafana%20results
+
+### Steps to Use:
+
+1. **Pull the Docker Image**:
+   ```bash
+   docker pull rajab97/neural_networks
+
+
 
 ## Features
 
