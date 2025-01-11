@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: neuralnet1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: neuralnet1
+  template:
+    metadata:
+      labels:
+        app: neuralnet1
+    spec:
+      containers:
+      - name: neuralnet1
+        image: rajab97/neural_networks:first  # Updated image name
+        ports:
+        - containerPort: 5000
