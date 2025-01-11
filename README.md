@@ -5,7 +5,7 @@ This project implements a simple neural network for classifying handwritten digi
 ---
 ## Docker Implementation with Prometheus and Grafana
 
-I have also made a Docker implementation of the same, along with Prometheus and Grafana for monitoring and visualization. You can view those results here - https://github.com/Torajabu/multiclass-classifcation-simple-neural-network--mnist-handwritten-dataset/tree/main/docker%2C%20Prometheus%2C%20Grafana%20results
+I have also made a Docker implementation of the same, along with Prometheus and Grafana for monitoring and visualization. You can view those results here - https://github.com/Torajabu/multiclass-classifcation-simple-neural-network--mnist-handwritten-dataset/tree/main/docker%2C%20Prometheus%2C%20Grafana%20results and https://drive.google.com/file/d/1YsrsR8fbUTyxVbacPidSqIoNr2YBY2O9/view?usp=sharing
 
 ### Steps to Use:
 
